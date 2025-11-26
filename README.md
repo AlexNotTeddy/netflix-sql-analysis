@@ -14,8 +14,8 @@ dataset grezzo → import → cleaning → analisi SQL → documentazione finale
 
 ## 🎯 Obiettivi
 
-* Analizzare il dataset ufficiale Netflix tramite MySQL.
-* Effettuare data wrangling con SQL puro.
+* Analizzare il dataset Netflix tramite MySQL.
+* Effettuare data wrangling con SQL.
 * Applicare strategie avanzate: CTE, Window Functions, REGEXP, parsing stringhe.
 
 ---
