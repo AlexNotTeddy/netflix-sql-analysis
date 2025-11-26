@@ -56,13 +56,13 @@ Progetti/
 
 ## 🧾 Contenuto dei file SQL
 
-### **[01_Netflix_Create_table&Import.sql](./SQL/01_Netflix_Create_table&Import.sql)**
+### [01_Netflix_Create_table&Import.sql](./SQL/01_Netflix_Create_table&Import.sql)
 
 * Creazione del database `netflix_db`.
 * Creazione tabella `netflix` con schema coerente al CSV.
 * Importazione tramite **LOAD DATA INFILE**.
 
-### **[02_Netflix_Queries.sql](./SQL/02_Netflix_Queries.sql)**
+### [02_Netflix_Queries.sql](./SQL/02_Netflix_Queries.sql)
 
 Include le analisi principali:
 
@@ -82,7 +82,7 @@ Include le analisi principali:
 * Raggruppamento per primo carattere del titolo (GROUPING SETS style)
 * Find all content with title length above the average
 
-### **[03_Netflix_sideSheet.sql](./SQL/03_Netflix_sideSheet.sql)**
+### [03_Netflix_sideSheet.sql](./SQL/03_Netflix_sideSheet.sql)
 
 Foglio laterale operativo utilizzato durante lo sviluppo:
 
